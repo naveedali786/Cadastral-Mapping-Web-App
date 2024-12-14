@@ -42,7 +42,8 @@
 
 ## Live Demo  
 
-Visit the live demo of the application: [Cadastral Mapping Web App](https://your-github-username.github.io/cadastral-mapping-web-app)  
+Visit the live demo of the application: [Cadastral Mapping Web App](https://naveedali786.github.io/Cadastral-Mapping-Web-App/#11/32.0681/73.5871)  
+***Note:*** It is might take time to load (30s-1m) due deploy on open source hosting 
 
 ## Installation  
 
